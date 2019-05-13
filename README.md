@@ -5,8 +5,11 @@ Build CryptoStar Dapp on Ethereum
 ## Handin Information
 
 ERC-721 Token Name: StarLite
+
 ERC-721 Token Symbol: SLT
+
 Truffle Version: 5.0.15
+
 OpenZeppelin Version: 2.2.0
 
 ## Getting Started
